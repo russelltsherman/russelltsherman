@@ -1,4 +1,7 @@
-### Hi there 👋
+### Time Statistics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **russelltsherman/russelltsherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Random Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=russelltsherman&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
