@@ -12,6 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+```js
+const russellSherman = {
+	name: 'Russell Sherman',
+	location: 'Austin, Texas',
+	languages: [
+		'English', 'JavaScript', 'Python', 'Go', 'Ruby',
+	],
+	tools: [
+		'VS Code', 'Vim', 'CMD Line', 'MongoDB',
+		'Git', 'GitHub', 'Electron'
+	],
+	os: ['macOS', 'Linux'],
+	projects: [
+		'proj1': 'Project Description. https://github.com/org/proj1',
+	]
+}
+-->
+<!--
+console.log(russellSherman)
+```
+-->
 
 ### My Github Stats
 
