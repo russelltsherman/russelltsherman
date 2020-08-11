@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Random Statistics
+### My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=russelltsherman&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=russelltsherman&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=russelltsherman&hide=css,html&theme=tokyonight">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russelltsherman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://wakatime.com/share/@russelltsherman/a234acd2-968c-49a9-a246-93462eec1551.svg)](https://wakatime.com/share/@russelltsherman/a234acd2-968c-49a9-a246-93462eec1551.svg)
 
 ### Connect with me
 
