@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.russelltsherman.vercel.app/api?username=russelltsherman&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=russelltsherman&show_icons=true&hide_border=true" />
 
 [website]: https://russelltsherman.github.io/
 [twitter]: https://twitter.com/austinrubyrails
