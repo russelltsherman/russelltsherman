@@ -1,8 +1,3 @@
-### Time Statistics
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--
 **russelltsherman/russelltsherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +31,8 @@ Here are some ideas to get you started:
 [website]: https://russelltsherman.github.io/
 [twitter]: https://twitter.com/austinrubyrails
 [linkedin]: https://linkedin.com/in/russsherman
+
+### Time Statistics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
