@@ -57,4 +57,11 @@ console.log(russellSherman)
 ### Time Statistics
 
 <!--START_SECTION:waka-->
+```text
+Other       13 hrs 57 mins  ████████▓░░░░░░░░░░░░░░░░   34.33 % 
+Terraform   8 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Markdown    5 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Bash        4 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+YAML        4 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+```
 <!--END_SECTION:waka-->
