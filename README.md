@@ -58,10 +58,10 @@ console.log(russellSherman)
 
 <!--START_SECTION:waka-->
 ```text
-Python     10 hrs 48 mins  █████████████░░░░░░░░░░░░   52.65 % 
-Other      3 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Markdown   3 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-JSON       58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-YAML       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Python     7 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.21 % 
+Other      4 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
+Markdown   2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+YAML       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JSON       49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 <!--END_SECTION:waka-->
