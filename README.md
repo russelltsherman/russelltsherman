@@ -58,8 +58,6 @@ console.log(russellSherman)
 
 <!--START_SECTION:waka-->
 ```text
-Other      74 hrs 8 mins   ████████████████████████░   95.57 % 
-Markdown   3 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-JSON       20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other   85 hrs 23 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
