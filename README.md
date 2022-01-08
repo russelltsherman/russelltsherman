@@ -58,10 +58,10 @@ console.log(russellSherman)
 
 <!--START_SECTION:waka-->
 ```text
-MQL        5 hrs 15 mins   ███████████░░░░░░░░░░░░░░   44.07 % 
-Other      2 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Markdown   2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.51 % 
-YAML       1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Docker     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+MQL         5 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.17 % 
+Markdown    4 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Other       1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+YAML        1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Terraform   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 <!--END_SECTION:waka-->
