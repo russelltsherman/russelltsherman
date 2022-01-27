@@ -58,10 +58,10 @@ console.log(russellSherman)
 
 <!--START_SECTION:waka-->
 ```text
-Other        3 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
-YAML         2 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-TypeScript   2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Terraform    1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-JavaScript   1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Markdown     5 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.15 % 
+Other        4 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+YAML         3 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+TypeScript   2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+MQL          1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 <!--END_SECTION:waka-->
