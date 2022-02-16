@@ -58,6 +58,8 @@ console.log(russellSherman)
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 27 mins
+
 Other       16 hrs 31 mins  ███████████████▒░░░░░░░░░   61.24 % 
 YAML        7 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.68 % 
 Terraform   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
