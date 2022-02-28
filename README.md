@@ -57,11 +57,9 @@ console.log(russellSherman)
 ### Time Statistics
 
 <!--START_SECTION:waka-->
+
 ```text
-Other      20 hrs 49 mins  █████████████████████▒░░░   84.72 % 
-YAML       2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Markdown   1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Python     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other        22 hrs 9 mins   ████████████████████▓░░░░   83.17 %
 ```
+
 <!--END_SECTION:waka-->
