@@ -59,7 +59,7 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```text
-Other       2 hrs 5 mins    █████████████░░░░░░░░░░░░   51.70 %
+Other       2 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.45 %
 ```
 
 <!--END_SECTION:waka-->
