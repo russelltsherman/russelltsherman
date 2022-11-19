@@ -59,8 +59,9 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```text
-YAML        15 mins         ██████████▓░░░░░░░░░░░░░░   43.10 %
-Other       12 mins         ████████▓░░░░░░░░░░░░░░░░   34.86 %
+Terraform   25 mins         ███████████▓░░░░░░░░░░░░░   46.51 %
+YAML        15 mins         ███████░░░░░░░░░░░░░░░░░░   28.59 %
+Other       13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
 ```
 
 <!--END_SECTION:waka-->
