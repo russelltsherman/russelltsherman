@@ -59,7 +59,7 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```text
-Other      0 secs          █████████████████████░░░░   83.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
