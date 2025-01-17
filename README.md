@@ -59,7 +59,11 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        2 hrs 28 mins   ████████████▓░░░░░░░░░░░░   50.07 %
+Docker       50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+JSON         33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Lua          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Text         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
