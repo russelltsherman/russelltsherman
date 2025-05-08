@@ -59,7 +59,11 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         19 mins         ███████████░░░░░░░░░░░░░░   44.48 %
+YAML         12 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Other        6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
