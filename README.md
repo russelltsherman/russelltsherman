@@ -59,9 +59,9 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-Other      6 mins          ███████████████████████▓░   95.17 %
-Makefile   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Other      22 mins         ███████████████████████▒░   92.87 %
+Makefile   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
