@@ -59,9 +59,11 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-Other      22 mins         ███████████████████████▒░   92.87 %
-Makefile   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other       1 hr 9 mins     █████████████████████▒░░░   85.11 %
+CSV         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Docker      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Terraform   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Makefile    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
