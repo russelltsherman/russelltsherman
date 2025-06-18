@@ -59,11 +59,7 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr            ██████████████████░░░░░░░   71.62 %
-Markdown    10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-JSON        10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Other       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Makefile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
