@@ -59,7 +59,9 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       53 mins         ████████████████▒░░░░░░░░   65.21 %
+Other      27 mins         ████████▒░░░░░░░░░░░░░░░░   33.34 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
