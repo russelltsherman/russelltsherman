@@ -59,8 +59,7 @@ console.log(russellSherman)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 mins          █████████████▒░░░░░░░░░░░   53.23 %
-JSON         6 mins          ███████████▓░░░░░░░░░░░░░   46.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
